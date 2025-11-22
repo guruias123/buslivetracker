@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124130474794",
+    "project_id": "livebustracker-b4094",
+    "storage_bucket": "livebustracker-b4094.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124130474794:android:80adf5a0667c42d3a77c53",
+        "android_client_info": {
+          "package_name": "com.livebustracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFvOmN8R9fLTWjzIB6KtH52Gud0knJH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
